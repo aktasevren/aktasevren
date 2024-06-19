@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- Manuel test teknikleri, süreçleri, yönetimi ve raporlaması<br><br>- JIRA, Agile, Scrum, SDLC, Git<br><br>- Javascript , Python, React, NodeJS dillerinde kendimi geliştirmeye devam ediyorum<br><br>- HTML, CSS, Selenium IDE, Cypress / Frontend - Web Uygulamaları<br><br>- SoapUI, Postman, Pytest, TestNG, Rest-Assured, JUnit / Backend - SOAP ve REST Web Servisleri otomasyon çalışmaları<br><br>- JMeter, LoadRunner / Performans, Yük ve Güvenlik testi çalışmaları<br><br>- Redis, SQL, PostgreSQL, Oracle Weblogic, Tomcat <br><br>- Docker, Jenkins - CI/CD süreçleri<br><br>- Appium / Mobil testler konusunda kendimi geliştirmeye devam ediyorum</p>
+<p align="left">
+  - Manuel test teknikleri, süreçleri, yönetimi ve raporlaması<br><br>
+  - JIRA, Agile, Scrum, SDLC, Git<br><br>- Javascript , Python, React, NodeJS dillerinde kendimi geliştirmeye devam ediyorum<br><br>
+  - HTML, CSS, Selenium IDE, Cypress, Browser DevTools / Frontend - Web Uygulamaları<br><br>
+  - SoapUI, Postman, Pytest, TestNG, Rest-Assured, JUnit / Backend - SOAP ve REST Web Servisleri otomasyon çalışmaları<br><br>- JMeter, LoadRunner / Performans, Yük ve Güvenlik testi çalışmaları<br><br>- Redis, SQL, PostgreSQL, Oracle Weblogic, Tomcat <br><br>- Docker, Jenkins - CI/CD süreçleri<br><br>- Appium / Mobil testler konusunda kendimi geliştirmeye devam ediyorum</p>
 
 ###
 
