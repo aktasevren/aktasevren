@@ -21,17 +21,19 @@
   <br>
   - Web Uygulamaları için kontroller ve otomasyon projeleri
   <br>
-  - SoapUI, Postman, pytest, TestNG ve 
+  - SoapUI, Postman, pytest, TestNG
   <br>
-  - Soap ve Rest Web Servis / API için otomasyon projeleri
+  - Soap, Rest Web Servis ve API için otomasyon projeleri
   <br>
   - Jmeter, LoadRunner ve performans testleri
   <br>
   - Redis, Postgre, Oracle Weblogic
   <br>
-  - Docker, Jenkins
+  - Docker, Jenkins, Sentry
   <br>
   - Otomasyon ortamlarının ve süreçlerinin oluşturulması
+  <br>
+  - Log Kontrolleri
   <br>
   - Appium </p>
 
