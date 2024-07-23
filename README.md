@@ -13,27 +13,25 @@
 <p align="left">
   -  Test teknikleri, yaklaşımları, yönetimi ve raporlaması
   <br>
-  - Agile Model, Jira, SDLC, git, Browser / DevTools
+  - Agile-Scrum, JIRA, SDLC, git, Browser / DevTools
   <br>
-  - Javascript, Python, React, nodeJS, SQL
+  - Javascript, Python, SQL
   <br>
-  - Html, Css, Selenium, Browserstack, Cypress
+  - Html, Css, React, Redux, nodeJs
   <br>
-  - Web Uygulamaları için kontroller ve otomasyon projeleri
+  - Selenium, Cypress, Browserstack
   <br>
-  - SoapUI, Postman, pytest, TestNG
+  - Web Uygulamaları için test ve otomasyon projeleri
   <br>
-  - Soap, Rest Web Servis ve API için otomasyon projeleri
+  - SoapUI, Postman, Swagger, JMeter, Loadrunner
   <br>
-  - Jmeter, LoadRunner ve performans testleri
+  - Soap, Rest Web Servis ve API için test ve otomasyon projeleri
   <br>
-  - Redis, Postgre, Oracle Weblogic
+  - Redis, MongoDB, MySQL, PostgreSQL
   <br>
   - Docker, Jenkins, Sentry
   <br>
   - Otomasyon ortamlarının ve süreçlerinin oluşturulması
-  <br>
-  - Log Kontrolleri
   <br>
   - Appium </p>
 
