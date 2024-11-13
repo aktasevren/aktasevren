@@ -1,8 +1,8 @@
-<h1 align="left">Merhaba 👋</h1>
+<h1 align="left">Merhaba 👋, ben Evren</h1>
 
 ###
 
-<p align="left">Adım Evren Aktaş. QA Engineer olarak çalışmaktayım.</p>
+<p align="left">QA Engineer olarak çalışmaktayım. Canlı ve geliştirme ortamında test süreçlerini yürütüyorum. Test Otomasyonları, Smoke test ve Regresyon testleri yazarak CI/CD sürecine entegre ediyorum. </p>
 
 ###
 
