@@ -10,30 +10,7 @@
 
 ###
 
-<p align="left">
-  -  Test Teknikleri, Yaklaşımları, Yönetimi ve Raporlaması
-  <br>
-  - Web Uygulamaları için Test ve Otomasyon Projeleri
-  <br>
-  - Agile-Scrum, JIRA, SDLC, CI/CD, git, Browser / DevTools
-  <br>
-  - Javascript, Python, SQL
-  <br>
-  - Html, Css, React
-  <br>
-  - Selenium, Cypress, Browserstack
-  <br>
-  - SoapUI, Postman, Swagger, JMeter, Loadrunner
-  <br>
-  - Soap, Rest Web Servis ve API için Test ve Otomasyon Projeleri
-  <br>
-  - Redis, MySQL, PostgreSQL
-  <br>
-  - Docker, Jenkins, Sentry
-  <br>
-  - Otomasyon Ortamlarının ve Süreçlerinin Oluşturulması
-  <br>
-  - Appium </p>
+<p align="left"> - Test teknikleri, metodolojileri, yönetimi ve raporlama süreçleri <br> - Backend ve Frontend için Test Otomasyonu çözümleri <br> - Agile/Scrum metodolojisi, JIRA, SDLC, CI/CD süreçleri, Git, Browser/DevTools kullanımı <br> - Yazılım geliştirme dillerinde deneyim: Javascript, Python, SQL <br> - Web teknolojileri: HTML, CSS, React <br> - Test otomasyonu araçları: Selenium, Cypress, BrowserStack <br> - API test araçları: SoapUI, Postman, Swagger, JMeter, LoadRunner <br> - SOAP, RESTful Web Servisleri ve API'ler için test ve otomasyon projeleri <br> - Veritabanları: Redis, MySQL, PostgreSQL <br> - DevOps araçları: Docker, Jenkins, Sentry <br> - Otomasyon ortamlarının ve süreçlerinin tasarımı ve yönetimi <br> - Mobil test otomasyonu: Appium </p>
 
 ###
 
