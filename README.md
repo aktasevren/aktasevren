@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">QA Engineer olarak çalışmaktayım. Canlı ve geliştirme ortamında test süreçlerini yürütüyorum. Test Otomasyonları, Smoke test ve Regresyon testleri yazarak CI/CD sürecine entegre ediyorum. </p>
+<p align="left">Test/QA Engineer olarak çalışmaktayım. Canlı ve geliştirme ortamında test süreçlerini yürütüyorum. Test otomasyon, Smoke ve Regresyon testleri yazarak CI/CD sürecine entegre ediyorum. </p>
 
 ###
 
@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left"> - Test teknikleri, metodolojileri, yönetimi ve raporlama süreçleri <br> - Backend ve Frontend için Test Otomasyonu çözümleri <br> - Agile/Scrum metodolojisi, JIRA, SDLC, CI/CD süreçleri, Git, Browser/DevTools kullanımı <br> - Yazılım geliştirme dillerinde deneyim: Javascript, Python, SQL <br> - Web teknolojileri: HTML, CSS, React <br> - Test otomasyonu araçları: Selenium, Cypress, BrowserStack <br> - API test araçları: SoapUI, Postman, Swagger, JMeter, LoadRunner <br> - SOAP, RESTful Web Servisleri ve API'ler için test ve otomasyon projeleri <br> - Veritabanları: Redis, MySQL, PostgreSQL <br> - DevOps araçları: Docker, Jenkins, Sentry <br> - Otomasyon ortamlarının ve süreçlerinin tasarımı ve yönetimi <br> - Mobil test otomasyonu: Appium </p>
+<p align="left"> 
+  - Test teknikleri, metodolojileri, yönetimi ve raporlama süreçleri <br> 
+  - Backend, Frontend ve Mobil için Test Otomasyonları <br> 
+  - Agile/Scrum, JIRA, SDLC, CI/CD süreçleri, Git, Browser/DevTools, BrowserStack <br> 
+  - Javascript, Python, SQL <br> 
+  - HTML, CSS, React <br> 
+  - Selenium, Cypress <br> 
+  - SoapUI, Postman, Swagger, JMeter, LoadRunner <br> 
+  - Redis, Jenkins, Sentry  <br> 
+  - Otomasyon ortamlarının ve süreçlerinin tasarımı ve yönetimi <br> 
+  - Appium </p>
 
 ###
 
