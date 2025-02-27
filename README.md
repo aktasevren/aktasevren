@@ -16,7 +16,7 @@ yeni test teknikleri ve otomasyon çözümlerini yazılım süreçlerine entegre
 
 <p align="left"> 
 
-🔹 // Javascript, Python, SQL <br>
+🔹 Javascript, Python, SQL <br>
 🔹CI/CD //  Jenkins <br>
 🔹Backend //  Postman, SoapUI, Pytest <br>
 🔹Frontend //  Selenium, Playwright, Cypress, CSR/SSR, Browser/Gel. Araçları, Browserstack, Responsive <br>
