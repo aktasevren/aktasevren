@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">QA Engineer olarak çalışmaktayım. Canlı ve geliştirme ortamlarında test süreçlerini yürütüyorum. Test otomasyonları ile sürekli olarak canlı ortam kontrolleri yapıp raporlarını hazırlıyorum. Smoke test ve Regresyon testleri yazarak CI/CD sürecine entegre ediyorum.</p>
+<p align="left">QA olarak çalışmaktayım. Yazılım geliştirme süreçlerinde kaliteyi en üst seviyeye çıkarmak için test süreçlerinin tasarımı, uygulan-
+ması ve izlenmesi konularında deneyimliyim. Fonksiyonel, UI, API ve performans testlerinde bilgi sahibiyim ve test otomasyonu
+projelerinde etkin roller üstlendim. Agile ve CI/CD süreçlerine entegre test stratejileri geliştirerek, yazılım yaşam döngüsünün her
+aşamasında kalite güvencesini sağlamayı hedefliyorum. Ayrıca, mobil uygulama testleri ve AI testleri alanında kendimi geliştirerek,
+yeni test teknikleri ve otomasyon çözümlerini yazılım süreçlerine entegre etme konusunda çalışmalarıma devam ediyorum.</p>
 
 ###
 
@@ -11,26 +15,16 @@
 ###
 
 <p align="left"> 
- 🔹 Test Süreçleri & Yönetimi: <br> 
-         - Test teknikleri, yaklaşımları, yönetimi ve raporlaması <br> 
-     - Web ve API test otomasyonu projeleri <br> 
-     - Otomasyon ortamlarının ve süreçlerinin oluşturulması <br> 
-🔹 Metodolojiler & İş Akış Araçları: <br> 
-     - Agile-Scrum, JIRA, SDLC, STLC, CI/CD, Git <br> 
-🔹 Programlama & Teknolojiler: <br> 
-     - JavaScript, Python, SQL <br> 
-     - HTML, CSS, ReactJS <br> 
-🔹 Test & Otomasyon Araçları: <br> 
-     - Selenium, Cypress, Appium <br> 
-     - Browserstack, Browser DevTools <br> 
-🔹 API & Performans Testleri: <br> 
-     - SoapUI, Postman, Swagger <br> 
-     - JMeter, LoadRunner <br> 
-     - Soap & Rest Web Servisleri için test ve otomasyon <br> 
-🔹 Veri Tabanları & İzleme Araçları: <br> 
-     - Redis, ElasticSearch, Sentry <br> 
-🔹 CI/CD & DevOps: <br> 
-     - Docker, Jenkins <br> 
+
+🔹 // Javascript, Python, SQL <br>
+🔹CI/CD //  Jenkins <br>
+🔹Backend //  Postman, SoapUI, Pytest <br>
+🔹Frontend //  Selenium, Playwright, Cypress, CSR/SSR, Browser/Gel. Araçları, Browserstack, Responsive <br>
+🔹Mobil //  Appium <br>
+🔹Performans //  JMeter, Pagespeed, Lighthouse <br>
+🔹Geliştirici Araçları //  Redis, RabbitMQ, Sentry, ElasticSearch <br>
+🔹Geliştirme Süreçleri //  STLC, SDLC, Agile, Scrum, Git, Jira <br>
+🔹 Cucumber, TDD, BDD <br>
 
 
 ###
