@@ -17,7 +17,7 @@ Ayrıca programlama dilleri, yeni test araçları, AI destekli testler ve AI tes
 Dil -- Javascript, Python, SQL  <br>
 Backend -- Postman, SoapUI, Pytest, Playwright  <br>
 Frontend -- Selenium, Cypress, CSR/SSR, Browser/Gel. Araçları, Browserstack, Responsive  <br>
-CI/CD  -- enkins  <br>
+CI/CD  -- Jenkins  <br>
 Mobil -- Appium  <br>
 Performans -- JMeter, Pagespeed, Lighthouse  <br>
 Geliştirici Araçları -- Redis, RabbitMQ, Sentry, ElasticSearch, Docker  <br>
