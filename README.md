@@ -21,19 +21,17 @@ Yeni teknolojileri yakından takip ediyor; yapay zekâ destekli test araçları,
 
 - Backend Test: Postman, SoapUI, Pytest, Playwright <br>
 
-- Frontend Test: Selenium, Cypress, CSR/SSR, Browser geliştirici araçları, BrowserStack, Responsive test <br>
+- Frontend Test: Selenium, Cypress, CSR/SSR, Browser geliştirici araçları, BrowserStack<br>
 
 - CI/CD: Jenkins <br>
 
-- Mobil Test: Appium <br>
+- Mobil Test: Appium, XCUITest <br>
 
 - Performans Test: JMeter, PageSpeed, Lighthouse <br>
 
 - Geliştirici Araçları: Redis, RabbitMQ, Sentry, ElasticSearch, Docker <br>
 
 - Yazılım Geliştirme Süreçleri: STLC, SDLC, Agile, Scrum, Git, Jira, Cucumber, TDD, BDD <br>
-
-Kaliteyi bir hedef değil, sürekli bir süreç olarak görüyorum. Yazılım dünyasında güvenilir, sürdürülebilir ve kullanıcı odaklı ürünlerin geliştirilmesi için çalışmaya devam ediyorum.
 
 
 
